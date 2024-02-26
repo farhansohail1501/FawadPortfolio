@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Data Visualization on Bicycle Theft Data",
+    "description": "Utilized Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Flask, and PowerBI for data analysis, developed robust models, and enhanced visualizations for decision-making.",
+    "skills": ["Python", "PowerBI"]
+  },
+  {
+    "title": "ETL Pipeline with Azure Data Factory",
+    "description": "Implemented an ETL pipeline using Azure Data Factory, streamlining data processing, constructing data workflows, managing pipelines with precision, Azure Blob Storage and SQL Database for efficient storage.",
+    "skills": ["Python", "Microsoft Azure Explored"]
+  }
+]
